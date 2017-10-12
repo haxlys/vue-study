@@ -27,7 +27,7 @@ export default {
   data() {
     return {
       msg: 'Welcome to Your Vue.js App',
-      msg2: 'Welcome to Jaehee Home',
+      msg2: 'Welcome to Jaehee Home!!',
     };
   },
 };
